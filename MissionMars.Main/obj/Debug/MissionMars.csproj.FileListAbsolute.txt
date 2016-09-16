@@ -1,0 +1,6 @@
+C:\Users\vbaria\Documents\Visual Studio 2015\Projects\MissionMars\MissionMars\bin\Debug\MissionMars.exe.config
+C:\Users\vbaria\Documents\Visual Studio 2015\Projects\MissionMars\MissionMars\obj\Debug\MissionMars.csprojResolveAssemblyReference.cache
+C:\Users\vbaria\Documents\Visual Studio 2015\Projects\MissionMars\MissionMars\bin\Debug\MissionMars.exe
+C:\Users\vbaria\Documents\Visual Studio 2015\Projects\MissionMars\MissionMars\bin\Debug\MissionMars.pdb
+C:\Users\vbaria\Documents\Visual Studio 2015\Projects\MissionMars\MissionMars\obj\Debug\MissionMars.exe
+C:\Users\vbaria\Documents\Visual Studio 2015\Projects\MissionMars\MissionMars\obj\Debug\MissionMars.pdb

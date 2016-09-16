@@ -1,0 +1,4 @@
+C:\Users\vbaria\Documents\Visual Studio 2015\Projects\MissionMars\MissionMars.Business\bin\Debug\MissionMars.Business.dll
+C:\Users\vbaria\Documents\Visual Studio 2015\Projects\MissionMars\MissionMars.Business\bin\Debug\MissionMars.Business.pdb
+C:\Users\vbaria\Documents\Visual Studio 2015\Projects\MissionMars\MissionMars.Business\obj\Debug\MissionMars.Business.dll
+C:\Users\vbaria\Documents\Visual Studio 2015\Projects\MissionMars\MissionMars.Business\obj\Debug\MissionMars.Business.pdb
